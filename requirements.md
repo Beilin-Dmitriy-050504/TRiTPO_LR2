@@ -27,7 +27,7 @@ Table of Contents
 
 ### 2.2 Интерфейс пользователя
 
-![alt Main menu](illustrations/Illustration.png "Main menu")
+![alt Main page](Illustrations/Design.png "Main page")
 
 ![alt Opened discussion](illustrations/discussion.png "Opened discussion")
 
