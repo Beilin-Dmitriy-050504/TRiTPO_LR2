@@ -1,2 +1,2 @@
-# TRiTPO_LR2
-TRiTPO_LR2
+# Software Requirements Specification document
+Документированные требования к проекту - MusicBox
