@@ -27,11 +27,17 @@ Table of Contents
 
 ### 2.2 Интерфейс пользователя
 
+![alt Acc page](Illustrations/Acc.png "Acc page")
+
 ![alt Main page](Illustrations/Design.png "Main page")
 
 ![alt Surch page](Illustrations/Surch.png "Surch page")
 
 ![alt TOP page](Illustrations/TOP.png "TOP page")
+
+![alt Premium page](Illustrations/Premium.png "Premium page")
+
+![alt Settings page](Illustrations/Settings.png "Premium page")
 
 ### 2.3 Характеристики пользователей
 Пользователи разбиваются на три основные группы:
