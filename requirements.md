@@ -29,9 +29,9 @@ Table of Contents
 
 ![alt Main page](Illustrations/Design.png "Main page")
 
-![alt Surch page](illustrations/Surch.png "Surch page")
+![alt Surch page](Illustrations/Surch.png "Surch page")
 
-![alt TOP page](illustrations/TOP.png "TOP page")
+![alt TOP page](Illustrations/TOP.png "TOP page")
 
 ### 2.3 Характеристики пользователей
 Пользователи разбиваются на три основные группы:
